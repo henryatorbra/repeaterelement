@@ -4,7 +4,7 @@ class HelloWorld extends HTMLElement {
         console.log("hello world")
     }
   connectedCallback() {
-    this.innerHTML = '<br/><br/><br/>Hello World!';
+    this.innerHTML = '<script src="flutter_bootstrap.js" async></script>';
   }
 }
 customElements.define('hello-world', HelloWorld);
