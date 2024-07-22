@@ -1,0 +1,3 @@
+$w.onReady(function () {
+	//TODO: write your page related code here...
+});
