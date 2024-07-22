@@ -1,4 +1,5 @@
 // Filename: public/convertPlanidtoMembershipPlanName.js
+// @ts-ignore
 import { getPlans } from 'public/getPlans.js';
 // Code written in public files is shared by your site's
 // Backend, page code, and site code environments.
